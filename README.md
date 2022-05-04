@@ -1,5 +1,5 @@
 # Snake-Game
-This game is build with 'Object Oriented Concept'
+This game is build with 'Object Oriented Programming'
 
 1. Download all the files and put all the files in same directory.
 
